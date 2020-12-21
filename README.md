@@ -8,7 +8,7 @@
 
 ## Library
 
-![Sulla](https://github.com/danielcardeenas/sulla)
+[Sulla](https://github.com/danielcardeenas/sulla)
 
 ### Install sulla
 
